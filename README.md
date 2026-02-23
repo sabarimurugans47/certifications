@@ -46,9 +46,8 @@
 - ✅ **SQL for Beginners**🎉 – [Scaler]  
 - ✅ **Introduction to MS Excel**🎉 – [Simplilearn]  
 - ✅ **Administrator Oracle Cloud Databases**🎉 – [Oracle]  
-- ✅ **AI Tools Workshop**🎉 – [Be10x]
 - ✅ **Python for Data Analysis** - [Amypo]
 
 ## 🧠 Career Goal
 
-I am currently focused on becoming a *Data Scientist*, while continuously learning and upskilling toward my long-term goal of becoming a **Machine Learning Engineer**.
+I am currently focused on becoming a *Machine Learning Engineer*, while continuously learning and upskilling toward my long-term goal of becoming a **AI Engineer**.
