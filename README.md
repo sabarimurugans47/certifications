@@ -44,8 +44,7 @@
 
 - ✅ **Power BI for Beginners**🎉 – [Simplilearn]  
 - ✅ **SQL for Beginners**🎉 – [Scaler]  
-- ✅ **Introduction to MS Excel**🎉 – [Simplilearn]  
-- ✅ **Administrator Oracle Cloud Databases**🎉 – [Oracle]  
+- ✅ **Introduction to MS Excel**🎉 – [Simplilearn]    
 - ✅ **Python for Data Analysis** - [Amypo]
 
 ## 🧠 Career Goal
